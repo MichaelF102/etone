@@ -24,7 +24,7 @@ export const Sidebar: React.FC = () => {
     { id: 1, title: 'Unit 1: Data Mining & Warehousing', icon: Database },
     { id: 2, title: 'Unit 2: Machine Learning Core', icon: BrainCircuit },
     { id: 3, title: 'Unit 3: Clustering & Rules', icon: Network },
-    { id: 4, title: 'Unit 4: Numericals', icon: Calculator },
+    { id: 4, title: 'Numericals', icon: Calculator },
   ];
 
   const toggleUnit = (unitId: number) => {
@@ -118,7 +118,7 @@ export const Sidebar: React.FC = () => {
 
         <div className="p-4 border-t border-slate-200 dark:border-slate-800">
           <p className="text-[10px] text-center text-slate-400 uppercase tracking-widest font-bold">
-            Data Mining Course
+            Made By Michael Fernandes
           </p>
         </div>
       </motion.aside>
