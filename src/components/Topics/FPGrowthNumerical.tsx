@@ -42,7 +42,7 @@ const FPGrowthNumerical: React.FC = () => {
                   <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-100 dark:border-slate-700"><span className="font-bold">T2:</span> {'{D, E, K, N, O, Y}'}</div>
                   <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-100 dark:border-slate-700"><span className="font-bold">T3:</span> {'{A, E, K, M}'}</div>
                   <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-100 dark:border-slate-700"><span className="font-bold">T4:</span> {'{C, K, M, U, Y}'}</div>
-                  <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-100 dark:border-slate-700"><span className="font-bold">T5:</span> {'{C, E, I, K, O}'}</div>
+                  <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-100 dark:border-slate-700"><span className="font-bold">T5:</span> {'{C, E, I, K, O, O}'}</div>
                 </div>
               </div>
             </div>
