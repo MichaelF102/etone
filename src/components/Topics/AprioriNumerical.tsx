@@ -93,7 +93,7 @@ const AprioriNumerical: React.FC = () => {
                       <tbody>
                         <tr className="border-b border-slate-100 dark:border-slate-800"><td className="p-3 font-medium">A</td><td className="p-3">6</td></tr>
                         <tr className="border-b border-slate-100 dark:border-slate-800"><td className="p-3 font-medium">B</td><td className="p-3">7</td></tr>
-                        <tr className="border-b border-slate-100 dark:border-slate-800"><td className="p-3 font-medium">C</td><td className="p-3">5</td></tr>
+                        <tr className="border-b border-slate-100 dark:border-slate-800"><td className="p-3 font-medium">C</td><td className="p-3">6</td></tr>
                         <tr className="border-b border-slate-100 dark:border-slate-800"><td className="p-3 font-medium">D</td><td className="p-3">2</td></tr>
                         <tr className="border-b border-slate-100 dark:border-slate-800 bg-rose-50/50 dark:bg-rose-900/10"><td className="p-3 font-medium text-rose-600 dark:text-rose-400">E</td><td className="p-3 text-rose-600 dark:text-rose-400">1</td></tr>
                       </tbody>
@@ -211,7 +211,7 @@ const AprioriNumerical: React.FC = () => {
                         <tr className="border-b border-slate-100 dark:border-slate-800"><td className="p-3 font-medium">ABC</td><td className="p-3">2</td></tr>
                         <tr className="border-b border-slate-100 dark:border-slate-800 bg-rose-50/50 dark:bg-rose-900/10"><td className="p-3 font-medium text-rose-600 dark:text-rose-400">ABD</td><td className="p-3 text-rose-600 dark:text-rose-400">1</td></tr>
                         <tr className="border-b border-slate-100 dark:border-slate-800 bg-rose-50/50 dark:bg-rose-900/10"><td className="p-3 font-medium text-rose-600 dark:text-rose-400">ACD</td><td className="p-3 text-rose-600 dark:text-rose-400">0</td></tr>
-                        <tr className="border-b border-slate-100 dark:border-slate-800 bg-rose-50/50 dark:bg-rose-900/10"><td className="p-3 font-medium text-rose-600 dark:text-rose-400">BCD</td><td className="p-3 text-rose-600 dark:text-rose-400">1</td></tr>
+                        <tr className="border-b border-slate-100 dark:border-slate-800 bg-rose-50/50 dark:bg-rose-900/10"><td className="p-3 font-medium text-rose-600 dark:text-rose-400">BCD</td><td className="p-3 text-rose-600 dark:text-rose-400">0</td></tr>
                       </tbody>
                     </table>
                   </div>
